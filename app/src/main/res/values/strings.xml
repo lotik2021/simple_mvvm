@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple MVVM</string>
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="id_label">id</string>
+    <string name="data">Data</string>
+    <string name="add">add</string>
+    <string name="get_by_id">get by id</string>
+    <string name="get_all">get all</string>
+</resources>
